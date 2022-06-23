@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container1{
+    position: relative;
+    height: 800px;
+    background-image: url(/myvisit/icons/main_bg.png);
+    padding: 39px 0 62px 0;
+}
+
+.h1{
+    text-align: center;
+    color: rgb(251, 171, 21);
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 14px;
+}
+
+.h2{
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: 22px;
+    margin-top: 28px;
+}
